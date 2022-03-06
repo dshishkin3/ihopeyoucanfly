@@ -12,19 +12,19 @@
 <a href="https://vk.com/whooooooooami" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="gautamkrishnar" height="35" width="35" /></a>
 
 <h2><b>🛠️&nbsp;&nbsp;Hard&nbsp;Skills</b></h2>
-  <h3>front-end:</h3>
+  <h3>front-end: 🚀</h3>
     <summary><b>javascript, typescript</b></summary>
     <summary><b>react, next.js</b></summary>
     <summary><b>redux(thunk, saga, toolkit)</b></summary>
     <summary><b>html, css(scss,sass)</b></summary>
      <summary><b>css modules, styled components</b></summary>
-       <h3>back-end:</h3>
+       <h3>back-end: 🚀</h3>
     <summary><b>node(express)</b></summary>
     <summary><b>mongoDB, mySQL, postgreSQL</b></summary>
     <summary><b>HTTP(HTTPS), SSL/TLS, DNS</b></summary>
     <summary><b>JWT</b></summary>
      <summary><b>Есть опыт написания простых SQL-запросов</b></summary>
-           <h3>other:</h3>
+           <h3>other: 🚀</h3>
     <summary><b>git</b></summary>
     <summary><b>jira</b></summary>
     <summary><b>firebase</b></summary>
