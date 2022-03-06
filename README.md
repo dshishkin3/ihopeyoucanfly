@@ -24,4 +24,9 @@
     <summary><b>HTTP(HTTPS), SSL/TLS, DNS</b></summary>
     <summary><b>JWT</b></summary>
      <summary><b>Есть опыт написания простых SQL-запросов</b></summary>
+           <h3>other:</h3>
+    <summary><b>git</b></summary>
+    <summary><b>jira</b></summary>
+    <summary><b>firebase</b></summary>
+
 
