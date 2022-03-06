@@ -13,21 +13,21 @@
 
 <h2><b>🛠️&nbsp;&nbsp;Hard&nbsp;Skills</b></h2>
 
-🚀 &nbsp;**front-end**:
+🚀 &nbsp;***front-end***:
 - <b>javascript, typescript</b>
 - <b>react, next.js</b>
 - <b>redux(thunk, saga, toolkit)</b>
 - <b>html, css(scss,sass)</b
 - <b>css modules, styled components</b>
 
-🖥 &nbsp;**back-end**:
+🖥 &nbsp;***back-end***:
 - <b>node(express)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
 - <b>HTTP(HTTPS), SSL/TLS, DNS</b>
 - <b>JWT</b>
 - <b>Есть опыт написания простых SQL-запросов</b>
 
-💬 &nbsp;**other**:
+💬 &nbsp;***other***:
 - <b>git</b>
 - <b>jira</b>
 - <b>firebase</b>
