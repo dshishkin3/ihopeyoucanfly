@@ -1,5 +1,7 @@
 ### Ну, хеллоу ворлд⚡
 
+ <b>✨&nbsp;&nbsp;Обо&nbsp;мне</b>
+
 🔗 &nbsp;**Связь со мной**
 
 <p align="left">
@@ -9,4 +11,3 @@
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
- <b>✨&nbsp;&nbsp;Обо&nbsp;мне</b>
