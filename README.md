@@ -12,7 +12,7 @@
 <a href="https://vk.com/whooooooooami" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/vk-circled.png" alt="gautamkrishnar" height="35" width="35" /></a>
 
 <h2><b>🛠️&nbsp;&nbsp;Hard&nbsp;Skills</b></h2>
-  <b>front-end: 👨🏻‍💻</b>
+  <h3>front-end: 👨🏻‍💻</h3>
     <summary><b>javascript, typescript</b></summary>
     <summary><b>react, next.js</b></summary>
     <summary><b>redux(thunk, saga, toolkit)</b></summary>
