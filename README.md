@@ -32,4 +32,4 @@
 - <b>jira</b>
 - <b>firebase</b>
 
-<h2><b>🛠️&nbsp;&nbsp;Projects</b></h2>
+<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
