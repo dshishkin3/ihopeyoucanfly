@@ -8,4 +8,4 @@
 🔗 &nbsp;**Связь со мной**
 
 <p align="left">
-<a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="30" width="30" /></a>
