@@ -17,7 +17,7 @@
 - <b>javascript, typescript</b>
 - <b>react, next.js</b>
 - <b>redux(thunk, saga, toolkit)</b>
-- <b>html, css(scss,sass)</b
+- <b>html, css(scss,sass)</b>
 - <b>css modules, styled components</b>
 
 🖥 &nbsp;***back-end***:
