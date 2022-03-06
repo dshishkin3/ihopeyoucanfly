@@ -18,3 +18,10 @@
     <summary><b>redux(thunk, saga, toolkit)</b></summary>
     <summary><b>html, css(scss,sass)</b></summary>
      <summary><b>css modules, styled components</b></summary>
+       <h3>back-end:</h3>
+    <summary><b>node(express)</b></summary>
+    <summary><b>mongoDB, mySQL, postgreSQL</b></summary>
+    <summary><b>HTTP(HTTPS), SSL/TLS, DNS</b></summary>
+    <summary><b>JWT</b></summary>
+     <summary><b>Есть опыт написания простых SQL-запросов</b></summary>
+
