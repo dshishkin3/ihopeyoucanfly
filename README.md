@@ -1,6 +1,6 @@
 ### Ну, хеллоу ворлд⚡
 
-🔗 &nbsp;**Connect with me**
+🔗 &nbsp;**Связь со мной**
 
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -9,4 +9,4 @@
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
- <b>✨&nbsp;&nbsp;About&nbsp;Me</b>
+ <b>✨&nbsp;&nbsp;Обо&nbsp;мне</b>
