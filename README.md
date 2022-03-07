@@ -33,4 +33,6 @@
 - <b>jira</b>
 - <b>firebase</b>
 
-<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
+&nbsp;<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
+- <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">Интернет магазин для заказа еды</a></h3>
+
