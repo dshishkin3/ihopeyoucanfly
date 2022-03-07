@@ -34,5 +34,5 @@
 - <b>firebase</b>
 
 &nbsp;<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
-- <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">ya_bao</a></h3> - Интернет магазин для заказа еды
+- <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">ya_bao</a> - Интернет магазин для заказа еды</h3> 
 
