@@ -24,8 +24,8 @@
 - <b>node(express)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
 - <b>HTTP(HTTPS), SSL/TLS, DNS</b>
-- <b>JWT</b>
 - <b>Есть опыт написания простых SQL-запросов</b>
+- <b>Базовое владение linux</b>
 
 💬 &nbsp;***other***:
 - <b>React Native</b>
