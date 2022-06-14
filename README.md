@@ -23,7 +23,7 @@
 🖥 &nbsp;***back-end***:
 - <b>node(express,nest)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
-- <b>HTTP(HTTPS), SSL/TLS, DNS</b>
+- <b>HTTP(HTTPS), SSL/TLS</b>
 - <b>Есть опыт написания простых SQL-запросов</b>
 - <b>Базовое владение linux</b>
 
