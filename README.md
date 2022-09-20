@@ -19,6 +19,7 @@
 - <b>redux(thunk, toolkit)</b>
 - <b>html, css(scss,sass)</b>
 - <b>css modules, styled components</b>
+- <b>eslint, prettier</b>
 
 🖥 &nbsp;***back-end***:
 - <b>node(express,nest)</b>
