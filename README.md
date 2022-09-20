@@ -40,6 +40,6 @@
 
 - <h3><a href="https://github.com/ihopeyoucanfly/JiiBank">JiiBank</a> - Приложение банка (react native)</h3> 
 
-- <h3><a href="https://github.com/ihopeyoucanfly/gameStore-frontend">game store</a> - Интернет магазин компьютерной техники <a href="game-store-frontend-pink.vercel.app">*link*</a></h3> 
+- <h3><a href="https://github.com/ihopeyoucanfly/gameStore-frontend">game store</a> - Интернет магазин компьютерной техники <a href="https://game-store-frontend-pink.vercel.app/">*link*</a></h3> 
 
 
