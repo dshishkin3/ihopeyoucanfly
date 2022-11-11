@@ -20,6 +20,7 @@
 - <b>html, css(scss,sass)</b>
 - <b>css modules, styled components</b>
 - <b>eslint, prettier</b>
+- <b>webpack</b>
 
 🖥 &nbsp;***back-end***:
 - <b>node(express,nest)</b>
