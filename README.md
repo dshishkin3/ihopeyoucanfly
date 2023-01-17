@@ -32,7 +32,7 @@
 💬 &nbsp;***other***:
 - <b>React Native</b>
 - <b>git</b>
-- <b>confluence, jira</b>
+- <b>confluence, jira, yougile, trello</b>
 - <b>firebase</b>
 
 &nbsp;<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
