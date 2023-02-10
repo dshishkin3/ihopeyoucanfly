@@ -36,7 +36,7 @@
 - <b>firebase</b>
 
 &nbsp;<h2><b>🛠️&nbsp;&nbsp;Мои проекты</b></h2>
-- <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">ya_bao</a> - Интернет магазин для заказа еды. <a href="https://ya-bao.vercel.app/">*link*</a></h3> 
+- <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">ya_bao</a> - Интернет магазин для заказа еды. <a href="https://ya-bao-frontend.vercel.app/">*link*</a></h3> 
 
 - <h3><a href="https://github.com/ihopeyoucanfly/sideChef-frontend">sideChef</a> - Поиск и сохранение рецептов <a href="https://side-chef.vercel.app/">*link*</a></h3> 
 
