@@ -21,6 +21,7 @@
 - <b>css modules, styled components</b>
 - <b>eslint, prettier</b>
 - <b>webpack</b>
+- <b>архитектура FSD</b>
 
 🖥 &nbsp;***back-end***:
 - <b>node(express,nest)</b>
