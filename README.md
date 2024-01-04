@@ -11,27 +11,26 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 ***front-end***:
 - <b>javascript, typescript</b>
 - <b>react, next.js</b>
-- <b>redux(thunk, toolkit)</b>
-- <b>html, css(scss,sass)</b>
-- <b>css modules, styled components</b>
-- <b>eslint, prettier</b>
-- <b>webpack</b>
-- <b>архитектура FSD</b>
+- <b>redux, redux toolkit, zustand</b>
+- <b>html, css, scss, tailwind, styled coponents</b>
+- <b>webpack, eslint, stylelint, prettier</b>
+- <b>jest, react testing library</b>
+- <b>storybook</b>
+- <b>FSD architecture</b>
 
 ***back-end***:
 - <b>node(express,nest)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
 - <b>HTTP(HTTPS), SSL/TLS</b>
-- <b>Есть опыт написания простых SQL-запросов</b>
-- <b>Базовое владение linux</b>
+- <b>basic SQL queries</b>
 
 ***other***:
-- <b>React Native</b>
+- <b>react native</b>
 - <b>git</b>
-- <b>confluence, jira, yougile, trello</b>
+- <b>confluence, jira, yougile, trello, yandex tracker</b>
 - <b>firebase</b>
 
-&nbsp;<h2><b>🛠️&nbsp;&nbsp;Мои проекты !!!2021-2022г!!!</b></h2>
+&nbsp;<h2><b>projects:/b></h2>
 - <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">ya_bao</a> - Интернет магазин для заказа еды. <a href="https://ya-bao-frontend.vercel.app/">*link*</a></h3> 
 
 - <h3><a href="https://github.com/ihopeyoucanfly/sideChef-frontend">sideChef</a> - Поиск и сохранение рецептов <a href="https://side-chef.vercel.app/">*link*</a></h3> 
