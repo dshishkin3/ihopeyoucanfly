@@ -6,7 +6,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 <a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="35" width="35" /></a>
 <a href="https://wa.me/79785508821" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="gautamkrishnar" height="35" width="35" /></a>
 
-<h2><b>🔨&nbsp;&nbsp;Hard&nbsp;Skills</b></h2>
+<h2><b>Hard&nbsp;Skills</b></h2>
 
 ***front-end***:
 - <b>javascript, typescript</b>
