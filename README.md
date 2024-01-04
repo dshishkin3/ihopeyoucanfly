@@ -8,7 +8,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 
 <h2><b>🔨&nbsp;&nbsp;Hard&nbsp;Skills</b></h2>
 
-🚀 &nbsp;***front-end***:
+***front-end***:
 - <b>javascript, typescript</b>
 - <b>react, next.js</b>
 - <b>redux(thunk, toolkit)</b>
@@ -18,14 +18,14 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 - <b>webpack</b>
 - <b>архитектура FSD</b>
 
-🖥 &nbsp;***back-end***:
+***back-end***:
 - <b>node(express,nest)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
 - <b>HTTP(HTTPS), SSL/TLS</b>
 - <b>Есть опыт написания простых SQL-запросов</b>
 - <b>Базовое владение linux</b>
 
-💬 &nbsp;***other***:
+***other***:
 - <b>React Native</b>
 - <b>git</b>
 - <b>confluence, jira, yougile, trello</b>
