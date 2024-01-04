@@ -8,7 +8,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 
 <h2><b>Hard&nbsp;Skills</b></h2>
 
-***front-end***:
+***frontend***:
 - <b>javascript, typescript</b>
 - <b>react, next.js</b>
 - <b>redux, redux toolkit, zustand</b>
@@ -18,7 +18,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 - <b>storybook</b>
 - <b>FSD architecture</b>
 
-***back-end***:
+***backend***:
 - <b>node(express,nest)</b>
 - <b>mongoDB, mySQL, postgreSQL</b>
 - <b>HTTP(HTTPS), SSL/TLS</b>
