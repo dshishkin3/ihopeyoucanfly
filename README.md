@@ -1,6 +1,6 @@
 I'm a frontend developer with 3 years of strong experience in web  application development
 
-<h2>🔗 &nbsp;Связь со мной</h2>
+<h2>Contact with me</h2>
 
 <p align="left">
 <a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="35" width="35" /></a>
