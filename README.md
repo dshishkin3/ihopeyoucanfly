@@ -1,6 +1,6 @@
 Я фронтенд-разработчик с 3-х летним опытом работы 
 
-<h2>Связаться со мнойe</h2>
+<h2>Связаться со мной</h2>
 
 <p align="left">
 <a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="35" width="35" /></a>
