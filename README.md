@@ -33,7 +33,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
  &nbsp;<h2><b>Мои проекты:</b></h2>
  - <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">game-store</a> - Фронтенд приложение для интернет магазина<a href="https://ya-bao-frontend.vercel.app/">Перейти к репозиторию на GitHub</a></h3> 
 
- - <h3><a href="https://github.com/ihopeyoucanfly/sideChef-frontend">game-store</a> - Бэкенд приложение для интернет-магазина Game Store. Здесь вы найдете описание проекта, а также возможность ознакомиться с кодом и внести свой вклад.<a href="https://github.com/ihopeyoucanfly/gameStore-backend">Перейти к репозиторию на GitHub</a></h3> 
+ - <h3><b>game-store</b> - Бэкенд приложение для интернет-магазина Game Store. Здесь вы найдете описание проекта, а также возможность ознакомиться с кодом и внести свой вклад.<a href="https://github.com/ihopeyoucanfly/gameStore-backend">Перейти к репозиторию на GitHub</a></h3> 
 
  - <h3><a href="https://github.com/ihopeyoucanfly/JiiBank">JiiBank</a> - Приложение банка (react native)</h3> 
 
