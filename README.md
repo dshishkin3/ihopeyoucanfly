@@ -31,7 +31,7 @@
 - <b>firebase</b>
 
  &nbsp;<h2><b>Мои проекты:</b></h2>
- - <h3><a href="https://github.com/zamukaev/game-store_2.0">game-store</a> - Фронтенд приложение для интернет-магазина Game Store<a href="https://ya-bao-frontend.vercel.app/">Перейти к репозиторию</a></h3> 
+ - <h3><a href="https://github.com/zamukaev/game-store_2.0">game-store</a> - Фронтенд приложение для интернет-магазина Game Store. <a href="https://github.com/zamukaev/game-store_2.0">Перейти к репозиторию</a></h3> 
 
  - <h3><a href="https://github.com/ihopeyoucanfly/gameStore-backend">game-store</a> - Бэкенд приложение для интернет-магазина Game Store. <a href="https://github.com/ihopeyoucanfly/gameStore-backend">Перейти к репозиторию</a></h3> 
 
