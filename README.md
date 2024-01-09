@@ -31,7 +31,7 @@ I'm a frontend developer with 3 years of strong experience in web  application d
 - <b>firebase</b>
 
  &nbsp;<h2><b>Мои проекты:</b></h2>
- - <h3><a href="https://github.com/ihopeyoucanfly/ya_bao-frontend">game-store</a> - Фронтенд приложение для интернет магазина<a href="https://ya-bao-frontend.vercel.app/">Перейти к репозиторию на GitHub</a></h3> 
+ - <h3><a href="https://github.com/zamukaev/game-store_2.0">game-store</a> - Фронтенд приложение для интернет-магазина Game Store<a href="https://ya-bao-frontend.vercel.app/">Перейти к репозиторию на GitHub</a></h3> 
 
  - <h3><a href="https://github.com/ihopeyoucanfly/gameStore-backend">game-store</a> - Бэкенд приложение для интернет-магазина Game Store. <a href="https://github.com/ihopeyoucanfly/gameStore-backend">Перейти к репозиторию</a></h3> 
 
