@@ -1,12 +1,12 @@
 Я фронтенд-разработчик с 3-х летним опытом работы 
 
-<h2>Contact with me</h2>
+<h2>Связаться со мнойe</h2>
 
 <p align="left">
 <a href="https://t.me/explorrerr" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="gautamkrishnar" height="35" width="35" /></a>
 <a href="https://wa.me/79785508821" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="gautamkrishnar" height="35" width="35" /></a>
 
-<h2><b>Hard&nbsp;Skills</b></h2>
+<h2><b>Хард скиллы</b></h2>
 
 ***frontend***:
 - <b>javascript, typescript</b>
